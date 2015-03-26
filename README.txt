@@ -1,2 +1,3 @@
 nowa linijka
 kolejna
+newecho
